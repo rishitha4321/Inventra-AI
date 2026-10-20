@@ -218,3 +218,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+Smart_Inventory_System/models/demand_model.pkl
